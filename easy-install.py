@@ -307,7 +307,7 @@ def create_site(
 				"--install-app",
 				"erpnext",
 				"--install-app",
-                "nonprofit",  # Add this line for the nonprofit app
+                "non_profit",  # Add this line for the nonprofit app
 				"--set-default",
 			],
 			check=True,
