@@ -306,10 +306,10 @@ def create_site(
 				admin_pass,
 				"--install-app",
 				"erpnext",
-				"--install-app",
-				"payments",
-				"--install-app",
-                "non_profit",  # Add this line for the nonprofit app
+				# "--install-app",
+				# "payments",
+				# "--install-app",
+                # "non_profit",  # Add this line for the nonprofit app
 				"--set-default",
 			],
 			check=True,

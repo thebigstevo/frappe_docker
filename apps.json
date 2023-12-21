@@ -4,11 +4,12 @@
         "branch": "version-14"
     },
     {
-        "url":"https://github.com/frappe/non_profit",
+        "url":"https://github.com/frappe/payments",
         "branch": "develop"
     },
     {
-        "url":"https://github.com/frappe/payments",
+        "url":"https://github.com/frappe/non_profit",
         "branch": "develop"
     }
+
    ]
