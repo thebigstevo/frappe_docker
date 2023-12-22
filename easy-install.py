@@ -310,6 +310,8 @@ def create_site(
 				"payments",
 				"--install-app",
 				"non_profit",
+				"--install-app",
+				"changemakers",				
 				"--set-default",
 			],
 			check=True,
