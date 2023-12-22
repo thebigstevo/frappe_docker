@@ -2,13 +2,5 @@
     {
         "url": "https://github.com/frappe/erpnext",
         "branch": "version-14"
-    },
-    {
-        "url":"https://github.com/frappe/non_profit",
-        "branch": "develop"
-    },
-    {
-        "url":"https://github.com/frappe/payments",
-        "branch": "develop"
     }
    ]
