@@ -5,11 +5,16 @@
     },
     {
       "url": "https://github.com/frappe/erpnext",
-      "branch": "develop"
+      "branch": "version-15"
     },
     {
         "url":"https://github.com/frappe/non_profit",
         "branch": "develop"
+    },
+    {
+        "url":"https://github.com/frappe/changemakers",
+        "branch": "develop"
     }
+
   ]
   
